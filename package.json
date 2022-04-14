@@ -112,7 +112,7 @@
     "@babel/generator": "^7.0.0",
     "@react-native-community/eslint-plugin": "1.0.0",
     "@reactions/component": "^2.0.2",
-    "async": "^2.4.0",
+    "async": "^3.2.2",
     "babel-eslint": "10.0.1",
     "clang-format": "^1.2.4",
     "coveralls": "^3.0.2",
